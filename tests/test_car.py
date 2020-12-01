@@ -5,7 +5,7 @@
 import unittest
 from unittest.mock import *
 
-from src.sample.simple import *
+from src.sample.car import *
 
 
 class TestSimple(unittest.TestCase):
